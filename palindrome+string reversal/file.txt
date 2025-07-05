@@ -1,0 +1,6 @@
+String recv from client: abba 
+ String after reversal : abba 
+ Is String Palindrome? TrueString recv from client: Ammar 
+ String after reversal : rammA 
+ Is String Palindrome? False 
+

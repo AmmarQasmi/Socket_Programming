@@ -1,0 +1,2 @@
+Duration of connectivity: 11.605719327926636 
+square & area: 4

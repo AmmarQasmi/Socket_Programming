@@ -1,0 +1,14 @@
+Number from client: 10 
+Factorial of 10: 3628800 
+Is 10 Prime? False 
+Duration Of connection: 1.7086312770843506
+Number from client: 10 
+Factorial of 10: 3628800 
+Is 10 Prime? False
+Fibonacci: 55 
+Duration Of connection: 5.738202333450317
+Number from client: 3 
+Factorial of 3: 6 
+Is 3 Prime? False
+Fibonacci: 2 
+Duration Of connection: 3.3564751148223877
